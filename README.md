@@ -115,15 +115,15 @@ const developer = {
 ---
 
 <!-- ANIME SECTION -->
-## 🎌 Anime Corner
+## 🌐 What a quotes
 
 <div align="center">
 
-<img width="80%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anime developer animation" />
+<img width="80%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzeGJmd245NWZiaTd1bmYyY2h6b2dhc3lpbGtkOGh1Zmk5OW5yMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="cat developer animation" />
 
 <br/>
 
-*"Dreams don't work unless you do."*
+*"If you know the enemy and know yourself, you need not fear the result of a hundred battles."*
 
 </div>
 
