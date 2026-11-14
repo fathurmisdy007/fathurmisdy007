@@ -59,11 +59,27 @@ Code. Create. Repeat.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src+"
 </p>
 
-💡 Interests
+### 💡 Interests & Technologies
 
-Web Development Open Source Anime Technology IoT
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web%20Development-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anime-EC4899?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technology-6366F1?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+
+</div>
+
 ---
 
 <!-- GITHUB STATISTICS -->
@@ -86,7 +102,6 @@ Web Development Open Source Anime Technology IoT
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurmisdy007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
 ---
 
 <!-- CONTRIBUTION GRAPH -->
