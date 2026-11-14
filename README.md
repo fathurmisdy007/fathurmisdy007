@@ -17,7 +17,8 @@ font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D7BFF&center=t
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username
+  =Fathur_misdy&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
