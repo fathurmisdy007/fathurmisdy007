@@ -23,39 +23,47 @@
 ---
 
 <!-- ABOUT ME -->
-## 🌸 About Me
+🌸 About Me
 
-```javascript
-const developer = {
-    name: "Fathur Rahman Misdyanto",
-    username: "fathurmisdy007",
-    role: "Full Stack Developer",
+<table>
+<tr>
+<td width="60%">
 
-    interests: [
-        "Web Development",
-        "Open Source",
-        "Anime",
-        "Technology",
-        "IoT"
-    ],
+👋 Hello, I'm Fathur!
 
-    currentlyLearning: [
-        "Nuxt.js",
-        "TypeScript",
-        "Python",
-        "React.js"
-    ],
+I'm a Full Stack Developer who loves building digital experiences, exploring new technologies, and creating useful projects.
 
-    motto: "Code. Create. Repeat."
-};
-```
+💻 Interested in Web Development
 
-- 🔭 Currently working on interesting projects.
-- 🌱 Learning new technologies every day.
-- 💻 Interested in Web Development & Software Engineering.
-- 🎮 Anime enthusiast and technology lover.
-- ⚡ Always curious about something new.
+🌱 Currently learning new technologies
 
+🎮 Anime enthusiast
+
+⚡ Exploring IoT and software engineering
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation"/>
+
+Code. Create. Repeat.
+
+</td>
+</tr>
+</table>
+
+🛠️ Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+💡 Interests
+
+Web Development Open Source Anime Technology IoT
 ---
 
 <!-- GITHUB STATISTICS -->
