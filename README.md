@@ -12,8 +12,8 @@
 <br/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development+Enthusiast;Exploring+IoT+Technology;Anime+%26+Technology+Lover;Welcome+to+My+GitHub!" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development+Enthusiast;Exploring+Game+Development;Anime+%26+Technology+Lover;Welcome+to+My+GitHub!" alt="Typing SVG" />
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=fathurmisdy007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
