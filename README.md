@@ -12,8 +12,8 @@
 <br/>
 
 <!-- ANIMATED TYPING -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development+Enthusiast;Exploring+Game+Development;Anime+%26+Technology+Lover;Welcome+to+My+GitHub!" alt="Typing SVG" />
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=fathurmisdy007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
@@ -23,7 +23,7 @@
 ---
 
 <!-- ABOUT ME -->
-🌸 About Me
+## 🌸 About Me
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ I'm a Full Stack Developer who loves building digital experiences, exploring new
 
 🎮 Anime enthusiast
 
-⚡ Exploring IoT and software engineering
+🎮 Exploring Game Development
 
 </td>
 <td width="40%" align="center">
@@ -52,14 +52,13 @@ Code. Create. Repeat.
 </tr>
 </table>
 
-🛠️ Currently Learning
+### 🛠️ Currently Learning
 
 <p>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src+"
 </p>
 
 ### 💡 Interests & Technologies
@@ -70,7 +69,7 @@ Code. Create. Repeat.
 <img src="https://img.shields.io/badge/Open%20Source-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anime-EC4899?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
 <img src="https://img.shields.io/badge/Technology-6366F1?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game%20Development-14B8A6?style=for-the-badge&logo=godotengine&logoColor=white"/>
 
 <br/>
 
@@ -100,6 +99,9 @@ Code. Create. Repeat.
 <a href="https://gitshine.com/stats/fathurmisdy007">
 <img src="https://gitshine.com/card/fathurmisdy007?theme=night" width="100%" alt="GitHub Statistics and Contribution Activity"/>
 </a>
+
+</div>
+
 ---
 
 <!-- CONTRIBUTION GRAPH -->
@@ -138,16 +140,17 @@ Every great developer starts with the first commit.
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nodejs,php,laravel,python,mysql,java,cpp,cs,rust,threejs,godot,tailwind,linux,ubuntu,git,github,vscode&theme=dark&perline=10" />
-</div>>
+
+</div>
 
 ---
 
 <!-- ANIME SECTION -->
-## 🌐 What a quotes
+## 🌐 What a Quotes
 
 <div align="center">
 
-<img width="80%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRmcHpyOXM2cDNwbmljMGw1ZDJkNTJxZ280bTM4bmM4a3c1aDhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FVR9HyTY7kYZveRwGJ/giphy.gif" alt="king of quotes" />
+<img width="80%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRmcHpyOXM2cDNwbmljMGw1ZDJkNTJxZ280bTM4bmM4a3c1aDhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FVR9HyTY7kYZveRwGJ/giphy.gif" alt="King of Quotes" />
 
 <br/>
 
@@ -179,3 +182,4 @@ Every great developer starts with the first commit.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:392b70,100:090919&height=120&section=footer" />
 
 </div>
+```
