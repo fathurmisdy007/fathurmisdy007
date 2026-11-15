@@ -148,7 +148,7 @@ Every great developer starts with the first commit.
 
 <div align="center">
 
-<img width="80%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzeGJmd245NWZiaTd1bmYyY2h6b2dhc3lpbGtkOGh1Zmk5OW5yMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="cat developer animation" />
+<img width="80%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRmcHpyOXM2cDNwbmljMGw1ZDJkNTJxZ280bTM4bmM4a3c1aDhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FVR9HyTY7kYZveRwGJ/giphy.gif" alt="king of quotes" />
 
 <br/>
 
