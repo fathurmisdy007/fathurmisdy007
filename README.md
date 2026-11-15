@@ -135,7 +135,7 @@ Every great developer starts with the first commit.
 <!-- TECH STACK -->
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nodejs,php,laravel,python,mysql,java,cpp,cs,rust,threejs,godot,tailwind,linux,ubuntu,git,github,vscode&theme=dark&perline=7" />
 </div>>
