@@ -7,7 +7,7 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090919,50:392b70,100:00c6ff&height=200&section=header&text=FATHUR%20MISDYANTO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=55&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090919,50:392b70,100:00c6ff&height=200&section=header&text=FATHUR%20MISDYANTO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Movie%20Enthusiast&descAlignY=55&descSize=15" />
 
 <br/>
 
