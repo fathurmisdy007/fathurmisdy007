@@ -150,7 +150,7 @@ Every great developer starts with the first commit.
 
 <div align="center">
 
-<img width="80%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRmcHpyOXM2cDNwbmljMGw1ZDJkNTJxZ280bTM4bmM4a3c1aDhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FVR9HyTY7kYZveRwGJ/giphy.gif" alt="King of Quotes" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,nextjs,vercel,react,nodejs,php,laravel,python,mysql,java,cpp,cs,rust,threejs,godot,tailwind,linux,ubuntu,git,github,vscode&theme=dark&perline=10" />
 
 <br/>
 
