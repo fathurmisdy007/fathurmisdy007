@@ -97,11 +97,9 @@ Code. Create. Repeat.
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fathurmisdy007&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurmisdy007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
+<a href="https://gitshine.com/stats/fathurmisdy007">
+<img src="https://gitshine.com/card/fathurmisdy007?theme=night" width="100%" alt="GitHub Statistics and Contribution Activity"/>
+</a>
 ---
 
 <!-- CONTRIBUTION GRAPH -->
@@ -109,7 +107,15 @@ Code. Create. Repeat.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fathurmisdy007&bg_color=1a1b27&color=9d7bff&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-0-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CONTRIBUTORS-0-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:392b70&height=100&section=header&text=Your%20Journey%20Starts%20Here&fontColor=ffffff&fontSize=22&animation=fadeIn"/>
+
+Every great developer starts with the first commit.
 
 </div>
 
