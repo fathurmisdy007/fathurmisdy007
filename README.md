@@ -44,7 +44,7 @@ I'm a Full Stack Developer who loves building digital experiences, exploring new
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk3bGpwbWhscjQwYWYzNW51NDRzeWZuZnprYXFhbDVyZmV6eDRhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="180" alt="Coding animation"/>
 
 Code. Create. Repeat.
 
