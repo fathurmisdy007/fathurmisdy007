@@ -137,9 +137,9 @@ Every great developer starts with the first commit.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nodejs,php,laravel,python,mysql,git,github,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nodejs,php,laravel,python,mysql,java,cpp,cs,rust,threejs,tailwind,linux,ubuntu,git,github,vscode&theme=dark&perline=7" />
 
-</div>
+</div>>
 
 ---
 
